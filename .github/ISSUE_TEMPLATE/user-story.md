@@ -1,11 +1,3 @@
----
-name: User Story
-about: Create a new user story for the project
-title: ''
-labels: ''
-assignees: ''
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
